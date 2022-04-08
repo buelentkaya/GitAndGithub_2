@@ -15,6 +15,6 @@ public class Test002 {
            int result=x*i;
                    System.out.println("result of 5 multiply with "+ i+ " equals "+result);
         }
-
+        System.out.println("Is there any problem so far?");
     }
 }
